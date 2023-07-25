@@ -26,20 +26,16 @@ beverages. It also displays proper error messages with all the missing ingredien
 |             | hot_milk - 100              |
 |             | sugar_syrup - 30            |
 |             | tea_leaves_syrup - 30       |
-|--------------------|-----------------------|
 | hot_coffee  | hot_water - 100             |
 |             | hot_milk - 400              |
 |             | coffee_decoction - 50       |
 |             | sugar_syrup - 30            |
-|--------------------|-----------------------|
 | black_tea   | hot_water - 300             |
 |             | sugar_syrup - 20            |
 |             | tea_leaves_syrup - 30       |
-|--------------------|-----------------------|
 | green_tea   | hot_water - 200             |
 |             | sugar_syrup - 20            |
 |             | green_tea_syrup - 3        |
-|--------------------|-----------------------|
 
 
 ### Sample test case
